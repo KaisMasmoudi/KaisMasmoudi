@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @KaisMasmoudi
+- 👀 I’m interested in software development.
+- 🌱 I’m currently learning Android development with Kotlin, and backend development with Java and Spring Framework.
+- 💞️ I’m looking to collaborate on creating projects for humanity.
+- 📫 How to reach me ? 
+    - mail : masmoudi.kais.tn@gmail.com
+    - linkedin : https://www.linkedin.com/in/kais-masmoudi-475499143/
